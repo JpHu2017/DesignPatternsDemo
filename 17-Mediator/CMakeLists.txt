@@ -1,0 +1,1 @@
+add_executable(MediatorDemo main.cpp)
