@@ -1,0 +1,1 @@
+add_executable(StrategyDemo main.cpp)
